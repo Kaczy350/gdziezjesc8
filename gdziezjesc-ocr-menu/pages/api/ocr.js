@@ -1,0 +1,1 @@
+// ocr.js placeholder z analizą tylko zdjęć przypominających menu

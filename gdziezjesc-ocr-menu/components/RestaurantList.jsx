@@ -1,0 +1,1 @@
+// RestaurantList.jsx placeholder z informacją o daniu z OCR

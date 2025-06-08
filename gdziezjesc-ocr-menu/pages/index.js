@@ -1,0 +1,1 @@
+// index.js placeholder z OCR filtrowanym po zdjęciach menu
